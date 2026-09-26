@@ -13,6 +13,13 @@ Le projet étant annulé, avec l'accord de tout le monde j'ai décidé de mettre
 
 Ce repo utilise des submodules, il n'y a pas de code ici directement. Vous pouvez aussi aller voir les repos séparément.
 
+## Crédits
+
+- Chefs de Projet: Azrotho & Cripie
+- Développeurs: Azrotho, Raraph84
+- Build: Ninox, Cripie, Fyn
+- Système: Raraph84 avec [Polycube.fr](https://polycube.fr)
+
 ## Les projets
 
 - `core/` : [cdi2-core-plugin](https://github.com/Azrotho/cdi2-core-plugin)
