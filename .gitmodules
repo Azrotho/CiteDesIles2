@@ -1,0 +1,18 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/Azrotho/cdi2-core-plugin.git
+[submodule "cite"]
+	path = cite
+	url = https://github.com/Azrotho/cdi2-cite-plugin.git
+[submodule "land"]
+	path = land
+	url = https://github.com/Azrotho/cdi2-land-plugin.git
+[submodule "inscription"]
+	path = inscription
+	url = https://github.com/Azrotho/cdi2-inscription-plugin.git
+[submodule "discord-bot"]
+	path = discord-bot
+	url = https://github.com/Azrotho/cdi2-discord-bot.git
+[submodule "core-server"]
+	path = core-server
+	url = https://github.com/Azrotho/cdi2-core-server.git
