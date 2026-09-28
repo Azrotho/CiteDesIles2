@@ -6,6 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Discord JDA](https://img.shields.io/badge/Discord-JDA-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PaperMC](https://img.shields.io/badge/PaperMC-%23F9A825.svg?style=for-the-badge&logo=PaperMC&logoColor=white)
 
 Repo principal du projet Cité des Îles 2. Ce projet n'est pas entièrement terminée et ne contient pas les modes de jeu du soir qui reste au Cripie Club.
 
